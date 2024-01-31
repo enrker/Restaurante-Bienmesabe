@@ -1,0 +1,435 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication5
+build_property.RootNamespace = WebApplication5
+build_property.ProjectDir = C:\Users\Enrique\Desktop\proyecto socioformativo\WebApplication5\WebApplication5\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Enrique\Desktop\proyecto socioformativo\WebApplication5\WebApplication5
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Cargoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Cargoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Cargoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Cargoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Cargoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Empleadoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Empleadoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Empleadoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Empleadoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Empleadoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Facturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Facturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Facturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Facturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Facturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ingredientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ingredientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ingredientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ingredientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ingredientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVkaWVudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Inventarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Inventarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Inventarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Inventarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Inventarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Jornadums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkdW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Jornadums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkdW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Jornadums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkdW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Jornadums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkdW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Jornadums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9ybmFkdW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Menus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Menus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Menus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Menus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Menus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Personas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Personas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Personas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Personas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Personas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Productoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Productoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Productoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Productoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Productoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/ProductoIngredientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9JbmdyZWRpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/ProductoIngredientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9JbmdyZWRpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/ProductoIngredientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9JbmdyZWRpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/ProductoIngredientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9JbmdyZWRpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/ProductoIngredientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9JbmdyZWRpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Proveedors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Proveedors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Proveedors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Proveedors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Proveedors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Suministroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Suministroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Suministroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Suministroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Suministroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/SuministroProveedors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb1Byb3ZlZWRvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/SuministroProveedors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb1Byb3ZlZWRvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/SuministroProveedors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb1Byb3ZlZWRvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/SuministroProveedors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb1Byb3ZlZWRvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/SuministroProveedors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VtaW5pc3Ryb1Byb3ZlZWRvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoConsumoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnN1bW9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoConsumoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnN1bW9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoConsumoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnN1bW9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoConsumoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnN1bW9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoConsumoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnN1bW9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoIngredientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0luZ3JlZGllbnRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoIngredientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0luZ3JlZGllbnRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoIngredientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0luZ3JlZGllbnRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoIngredientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0luZ3JlZGllbnRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoIngredientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0luZ3JlZGllbnRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoPagoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoPagoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoPagoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoPagoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/TipoPagoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1BhZ29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/VentaProductoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFQcm9kdWN0b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/VentaProductoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFQcm9kdWN0b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/VentaProductoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFQcm9kdWN0b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/VentaProductoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFQcm9kdWN0b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/VentaProductoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFQcm9kdWN0b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ventums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudHVtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ventums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudHVtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ventums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudHVtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ventums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudHVtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Ventums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudHVtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Enrique/Desktop/proyecto socioformativo/WebApplication5/WebApplication5/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-hfojqxc3fr
